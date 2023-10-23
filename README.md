@@ -5,8 +5,7 @@ I'm a Python Backend Developer based in Gwalior, Madhya Pradesh, with a passion 
 About Me
 
 - 🏠 Hometown: Gwalior, Madhya Pradesh, 474001
-- 🎓 Education: Bachelor of Technology (CS&IT) from Symbiosis University of Applied 
-      Sciences, Indore (Completed in 2024) CGPA:- 8.2429
+- 🎓 Education: Bachelor of Technology (CS&IT) from Symbiosis University of Applied Sciences, Indore (Completed in 2024) CGPA:- 8.2429
 - 🎓 Class XII: New Adarsh H.S. School, Gwalior (Completed in 2020) Percentage 73.00%
 - 🎓 Class X: The Radiant H.S. School, Gwalior (Completed in 2017) Percentage 74.00%
 - 📜 Research Paper: SAILFISH-I: [A Lightweight Block Cipher for Cloud-Enabled Fog Devices](https://xplorestaging.ieee.org/document/9997844)
