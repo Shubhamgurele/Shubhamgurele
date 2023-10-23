@@ -17,10 +17,14 @@ Skills
 
 Projects
 
-- Driver Drowsiness Detection System(https://github.com/Shubhamgurele/File_cammander)
-- Plant Disease Detector(https://github.com/Shubhamgurele/Plant_Desease_Detecter)
-- Meter Reader Tracker(https://github.com/Shubhamgurele/Meter_reader_tracker)
-- Universal Converter(https://github.com/Shubhamgurele/File_cammander)
+- Driver Drowsiness Detection System
+(https://github.com/Shubhamgurele/File_cammander)
+- Plant Disease Detector
+(https://github.com/Shubhamgurele/Plant_Desease_Detecter)
+- Meter Reader Tracker
+(https://github.com/Shubhamgurele/Meter_reader_tracker)
+- Universal Converter
+(https://github.com/Shubhamgurele/File_cammander)
 
 Internships
 
@@ -35,12 +39,17 @@ Internships
 
 How to Connect with me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shubha
+- LinkedIn: [Your LinkedIn Profile]
+(https://www.linkedin.com/in/shubha
 m-gurele-220948201/)
-- Facebook: [Your Facebook Profile](https://www.facebook.com/shub.gurele/)
-- Instagram: [Your Instagram Profile](https://www.instagram.com/shubhamgurele/)
-- Email: [Your Email Address](shubhamgurele1209@gmail.com)
-- Resume: [Your Resume (PDF)](https://drive.google.com/file/d/1s8F24mHNvlcN-9I6pFJMW2dTjOql1Tu0/view?usp=sharing)
+- Facebook: [Your Facebook Profile]
+(https://www.facebook.com/shub.gurele/)
+- Instagram: [Your Instagram Profile]
+(https://www.instagram.com/shubhamgurele/)
+- Email: [Your Email Address]
+(shubhamgurele1209@gmail.com)
+- Resume: [Your Resume (PDF)]
+- (https://drive.google.com/file/d/1s8F24mHNvlcN-9I6pFJMW2dTjOql1Tu0/view?usp=sharing)
 
 Feel free to reach out to me if you have any questions or want to collaborate on a project!
 
