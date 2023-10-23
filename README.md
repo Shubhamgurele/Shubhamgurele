@@ -18,12 +18,9 @@ Skills
 Projects
 
 - [Driver Drowsiness Detection System](https://github.com/Shubhamgurele/File_cammander)
-- Plant Disease Detector
-(https://github.com/Shubhamgurele/Plant_Desease_Detecter)
-- Meter Reader Tracker
-(https://github.com/Shubhamgurele/Meter_reader_tracker)
-- Universal Converter
-(https://github.com/Shubhamgurele/File_cammander)
+- [Plant Disease Detector](https://github.com/Shubhamgurele/Plant_Desease_Detecter)
+- [Meter Reader Tracker](https://github.com/Shubhamgurele/Meter_reader_tracker)
+- [Universal Converter](https://github.com/Shubhamgurele/File_cammander)
 
 Internships
 
