@@ -4,11 +4,11 @@ I'm a Python Backend Developer based in Gwalior, Madhya Pradesh, with a passion 
 
 ## About Me
 
-- 🏠 **Hometown**: Gwalior, Madhya Pradesh, 474001
-- 🎓 **Education**: Bachelor of Technology (CS&IT) from Symbiosis University of Applied Sciences, Indore (Completed in 2024)
-- 🎓 **Class XII**: New Adarsh H.S. School, Gwalior (Completed in 2020)
-- 🎓 **Class X**: The Radiant H.S. School, Gwalior (Completed in 2017)
-- 📜 **Research Paper**: SAILFISH-I: A Lightweight Block Cipher for Cloud-Enabled Fog Devices
+- 🏠 Hometown: Gwalior, Madhya Pradesh, 474001
+- 🎓 Education: Bachelor of Technology (CS&IT) from Symbiosis University of Applied Sciences, Indore (Completed in 2024) CGPA:- 8.2429
+- 🎓 Class XII: New Adarsh H.S. School, Gwalior (Completed in 2020) percentage 73.00%
+- 🎓 Class X: The Radiant H.S. School, Gwalior (Completed in 2017) percentage 74.00%
+- 📜 Research Paper: SAILFISH-I: A Lightweight Block Cipher for Cloud-Enabled Fog Devices
 
 ## Skills
 
@@ -17,10 +17,10 @@ I'm a Python Backend Developer based in Gwalior, Madhya Pradesh, with a passion 
 
 ## Projects
 
-- Driver Drowsiness Detection System
-- Plant Disease Detector
-- Meter Reader Tracker
-- Universal Converter
+- Driver Drowsiness Detection System(https://github.com/Shubhamgurele/File_cammander)
+- Plant Disease Detector(https://github.com/Shubhamgurele/Plant_Desease_Detecter)
+- Meter Reader Tracker(https://github.com/Shubhamgurele/Meter_reader_tracker)
+- Universal Converter(https://github.com/Shubhamgurele/File_cammander)
 
 ## Internships
 
@@ -29,7 +29,7 @@ I'm a Python Backend Developer based in Gwalior, Madhya Pradesh, with a passion 
    - Developed a website using HTML, CSS, and JavaScript
    - Led the marketing team and managed social media platforms (Instagram, Facebook, Twitter)
 
-2. **TATA Consultancy Services Limited (TCS)** (Aug 2022 - Sep 2022)
+2. TATA Consultancy Services Limited (TCS) (Aug 2022 - Sep 2022)
    - Role: Software Development Intern
    - Created a Smart Meter Reader using QR Scanner technology
 
